@@ -10,6 +10,7 @@ Deaf Enabled Foundation YouTube Channel: https://www.youtube.com/@deafenabledfou
 
 For the test set, we used the ISL CSLTR Dataset, which contains multiple videos of 100 sentences in ISL. We annotated two videos for each sentence manually using VIA Annotation Tool. The annotated dataset is available in ```/test_data/VIA_annotations.csv```.    
 ISL CSLTR Dataset: https://data.mendeley.com/datasets/kcmpdxky7p/1
+
 VIA Annotation Tool: https://www.robots.ox.ac.uk/~vgg/software/via/
 
 ## Model

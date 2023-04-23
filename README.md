@@ -20,4 +20,4 @@ VIA Annotation Tool: https://www.robots.ox.ac.uk/~vgg/software/via/
 - [Katrin Renz](https://www.katrinrenz.de), [Nicolaj C. Stache](https://www.hs-heilbronn.de/nicolaj.stache), [Neil Fox](https://www.ucl.ac.uk/dcal/people/research-staff/neil-fox), [Gül Varol](https://www.robots.ox.ac.uk/~gul) and [Samuel Albanie](https://www.robots.ox.ac.uk/~albanie/),
 *Sign Segmentation with Changepoint-Modulated Pseudo-Labelling*, CVPRW 2021. [[arXiv]](https://arxiv.org/abs/2104.13817)
 
-The models are stored in ```/models/mstcn_ISL_CMPL.zip``` and the Jupyter Notebooks for our code are stored in ```/notebooks/``
+The models are stored in ```/models/mstcn_ISL_CMPL.zip``` and the Jupyter Notebooks for our code are stored in ```/notebooks``
